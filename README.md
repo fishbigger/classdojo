@@ -6,7 +6,7 @@ Tools to get points from the classdojo point system
 
 ```pip3 install classdojo```
 
-# Examle:
+# Example:
 
 ```
 import classdojo
