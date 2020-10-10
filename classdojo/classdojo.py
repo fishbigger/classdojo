@@ -84,8 +84,3 @@ class classDojo():
 				break
 		
 		return self.getPointsByIndexOfPupil(index)
-
-classId = "5f80a73155fc639d90406ded"
-cookie = 'dojo_log_session_id=7c03a8dc-d349-4553-8d32-479fc40a7798; _ga=GA1.2.898831097.1602269772; _gid=GA1.2.761379133.1602269772; dojorrt=1602354174700; dojo_login.sid=s%3ARoWQ7Dtwao3ZYVvC1xl0u1-VDJqDJH9q.sxsShkDasxGjsbxY%2BbbqSQOKlH%2Fk0Mn7HECB0EAGIWA; dojo_teach_login.sid=s:RoWQ7Dtwao3ZYVvC1xl0u1-VDJqDJH9q.sxsShkDasxGjsbxY+bbqSQOKlH/k0Mn7HECB0EAGIWA'
-
-_class = classDojo(classId, cookie)
