@@ -9,7 +9,7 @@ Tools to get points from the classdojo point system
 # Example:
 
 ```
-import classdojo
+import classdojo.classdojo as classdojo
 
 classId = "<CLASS ID (Found in URL)"
 cookie = "<Cookie (Found in developer console)
